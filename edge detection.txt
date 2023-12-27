@@ -1,0 +1,12 @@
+Prewitt Operator
+    Sobel Operator
+    Canny Operator
+    Robinson Compass Masks
+    Krisch Compass Masks
+    Laplacian Operator
+
+
+add gaussian noise , salt and pepper noise , speckle noise, quantization noise, pattern noise and temporal noise to durbar square
+
+
+Brightness and Contrast Adjustment, Histogram Equalization, sharpen, Color Balance, median, mean, bilateral, contrast stretching, image fusion
